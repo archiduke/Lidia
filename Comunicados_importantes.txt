@@ -1,0 +1,7 @@
+*** Por ahora no tenemos muchas herramientas, pero que sepais que por ahora estamos usando como entorno de programación "Visual Studio Code".
+Iré añadiendo todas las herramientas que utilicemos por si se os olvida alguna saber como se llama.***
+
+!!! Si alguno quiere algun tutorial alog avanzado, como por ejemplo atajos para hacer html muy rapido, pedidlo. Aquí os dejo el que digo de VS code, con
+los atajos, es muy útil para escribir codigo automáticamente: https://coderslink.com/talento/blog/ahorra-tiempo-al-escribir-codigo-html-en-visual-studio-code-utilizando-emmet/ !!!
+
+$$$ Cualquier petición habladme al whatsapp, un saludo compañeros $$$
