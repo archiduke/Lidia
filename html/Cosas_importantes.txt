@@ -1,0 +1,3 @@
+Carpeta de lenguaje de marcas. Tiene algunos ejercicios básicos como ejemplo de la teoría.
+Si alguien quiere que añada algun ejemplo concreto que me lo diga.
+En un futuro no muy lejano añadiré una plantilla completa para un web, con su index y sus carpetas correspondientes.
