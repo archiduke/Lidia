@@ -1,14 +1,14 @@
       | LUNES       | MARTES      | MIERCOLES    | JUEVES         | VIERNES       |
 ------| ------------|-------------|--------------|----------------|---------------|
 15:35 |             |     FOL     |              |                |               |
-16:30 |             |             | sistemas     |                | sistemas      |
-------| programacion|-------------| informaticos |     FOL        | informaticos  |
+16:30 | sistemas    |             | sistemas     |                | sistemas      |
+------| informaticos|-------------| informaticos |     FOL        | informaticos  |
 16:30 |             |             |              |                |               |
 17:25 |             |             |              |                |               |
 ------|-------------|programacion |--------------|----------------|---------------|
 17:30 |             |             |              |                |               |
-18:25 | sistemas    |             |              | lenguaje       | bases de      |
-------| informaticos|-------------|programacion  | de marcas      | datos         |
+18:25 |             |             |              | lenguaje       | bases de      |
+------| programacion|-------------|programacion  | de marcas      | datos         |
 18:25 |             | entornos de |              |                |               |
 19:20 |             |desarrollo   |              |                |               |
 ------|-------------|-------------|--------------|----------------|---------------|
