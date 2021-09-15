@@ -1,6 +1,0 @@
-Carpeta de lenguaje de marcas. Tiene algunos ejercicios básicos como ejemplo de la teoría.
-Si alguien quiere que añada algun ejemplo concreto que me lo diga.
-En un futuro no muy lejano añadiré una plantilla completa para un web, con su index y sus carpetas correspondientes.
-
-!!!Aquí os dejo el que digo de VS code, con
-los atajos, es muy útil para escribir codigo automáticamente: https://coderslink.com/talento/blog/ahorra-tiempo-al-escribir-codigo-html-en-visual-studio-code-utilizando-emmet/!!!
