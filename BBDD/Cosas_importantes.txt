@@ -1,1 +1,0 @@
-Carpeta para base de datos donde incluire teoria, ejercicios y lo que se necesite.
